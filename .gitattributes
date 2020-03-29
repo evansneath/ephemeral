@@ -1,0 +1,15 @@
+Content/Textures/Stars/starmap_16k.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/Earth/8k_earth_nightmap.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/Earth/8k_earth_normal_map.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/Mercury/Mercury_Messenger_DEM_Global_665m_1024.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/Stars/celestial_grid.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/Earth/8k_earth_clouds.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/Stars/constellation_boundaries.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/T_Fire_Tiled_D.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/Mercury/Mercury_MESSENGER_MDIS_Basemap_MD3Color_Mosaic_Global_32ppd.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/Stars/constellation_figures.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/Venus/venusbump.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/Earth/8081_earthmap10k.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/Earth/8k_earth_specular_map.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/Venus/4k_venus_atmosphere.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Textures/Venus/Venus_Magellan_C3-MDIR_Colorized_Global_Mosaic_4641m.uasset filter=lfs diff=lfs merge=lfs -text
