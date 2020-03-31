@@ -5,9 +5,12 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "ephemeral",
+			"Name": "Ephemeral",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }

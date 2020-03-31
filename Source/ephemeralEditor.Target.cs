@@ -1,14 +1,15 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Fill out your copyright notice in the Description page of Project Settings.
 
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class ephemeralEditorTarget : TargetRules
+public class EphemeralEditorTarget : TargetRules
 {
-	public ephemeralEditorTarget( TargetInfo Target) : base(Target)
+	public EphemeralEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "ephemeral" } );
+
+		ExtraModuleNames.AddRange( new string[] { "Ephemeral" } );
 	}
 }
